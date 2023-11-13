@@ -4,3 +4,9 @@
 [submodule "task2"]
 	path = task2
 	url = https://github.com/Crosbic/task2.git
+[submodule "task3"]
+	path = task3
+	url = https://github.com/Crosbic/task3.git
+[submodule "task4"]
+	path = task4
+	url = https://github.com/Crosbic/task4.git
