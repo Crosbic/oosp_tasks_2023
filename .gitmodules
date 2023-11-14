@@ -10,3 +10,27 @@
 [submodule "task4"]
 	path = task4
 	url = https://github.com/Crosbic/task4.git
+[submodule "task5"]
+	path = task5
+	url = https://github.com/Crosbic/task5.git
+[submodule "task6"]
+	path = task6
+	url = https://github.com/Crosbic/task6.git
+[submodule "task7"]
+	path = task7
+	url = https://github.com/Crosbic/task7.git
+[submodule "task8"]
+	path = task8
+	url = https://github.com/Crosbic/task8.git
+[submodule "task9"]
+	path = task9
+	url = https://github.com/Crosbic/task9.git
+[submodule "task10"]
+	path = task10
+	url = https://github.com/Crosbic/task10.git
+[submodule "task11"]
+	path = task11
+	url = https://github.com/Crosbic/task11.git
+[submodule "task12"]
+	path = task12
+	url = https://github.com/Crosbic/task12.git
